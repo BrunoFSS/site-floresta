@@ -1,0 +1,42 @@
+body{
+    background-image: url('/img/fundo-floresta.jpg');
+    background-size: cover;
+}
+
+div {
+    background-color: #fff;
+    width: 650px;
+    margin: 0px auto;
+}
+
+.secao-conteudo img {
+    width: 600px;
+    padding: 0px 0px 0px 25px;
+    
+}
+
+.titulos, p {
+    width: 600px;
+    margin: 0px auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.secao-topo p {
+    font-size: 24px;
+    padding-top: 0px;
+}
+
+.titulos{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.secao-topo h1 {
+    font-size: 30px;
+    padding-bottom: 0px;
+}
+
+p {
+    line-height: 24px;
+}
